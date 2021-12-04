@@ -1,4 +1,4 @@
-### 👋 Hi there  My name is Danylo aka Polinian
+### 👋 Hi there!  My name is Danylo aka Polinian
 
 ## Some info about me
 - 🇵🇱 I'm from Poland
