@@ -5,3 +5,6 @@
 - 👨🏻‍🎓 Currently study in University (PWR)
 - 🌚 I know 4 languages
 - 🎮 I enjoy playing computer games
+
+### 📩 Connect with me
+
