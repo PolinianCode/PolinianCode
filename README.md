@@ -6,6 +6,6 @@
 - 🌚 I know 4 languages
 - 🎮 I enjoy playing computer games
 
-https://www.codewars.com/users/ClownCode/badges
+![CodeWars](https://www.codewars.com/users/ClownCode/badges)
 
 ### 📩 Connect with me
