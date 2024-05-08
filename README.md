@@ -4,7 +4,9 @@
 
 <h3>About me</h3>
 <ul>
-  <li>Python developer</li>
+  <li> 3rd year Computer Science Student
+  <li> 
+  <li> Python developer</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
